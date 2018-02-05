@@ -13,3 +13,4 @@ My main goal was to show not only my knowledge of node.js but also that I can ju
 * `api/ballot` doen't return final result after `endTime` has passed
 * `api/vote` isn't completely finished, about 50%
 * "Sticky goal": I didn't get the the picky eater part although I am persisting everythin in mark logic.
+* automated unit testing with `hapi.js`'s `server.inject`
