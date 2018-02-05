@@ -1,0 +1,33 @@
+{
+  "name": "lunchinator3000",
+  "version": "1.0.0",
+  "description": "'Polling the best restaurant for lunch'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bootstrap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesgibson14/lunchinator3000.git"
+  },
+  "author": "James Gibson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesgibson14/lunchinator3000/issues"
+  },
+  "homepage": "https://github.com/jamesgibson14/lunchinator3000#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "guid": "0.0.12",
+    "hapi": "^17.2.0",
+    "hapi-auth-jwt": "^4.0.0",
+    "joi": "^13.1.2",
+    "jsonwebtoken": "^8.1.1",
+    "mailgun-js": "^0.14.2",
+    "marklogic": "^2.1.1",
+    "underscore": "^1.8.3"
+  }
+}
